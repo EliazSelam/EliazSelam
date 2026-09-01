@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://github.com/EliazSelam">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=FF6B35&center=true&vCenter=true&width=620&lines=Eliaz+Selam;Electrical+Engineer+%7C+Control+%26+DSP;Building+systems+that+work." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=3078B0&center=true&vCenter=true&width=620&lines=Eliaz+Selam;Electrical+Engineer+%7C+Control+%26+DSP;Building+systems+that+work." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-004E89?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliaz.es1234@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Herzliya,_Israel-2E2E2E?style=for-the-badge)](https://github.com/EliazSelam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B2F5A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-3078B0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliaz.es1234@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Herzliya,_Israel-4A4540?style=for-the-badge)](https://github.com/EliazSelam)
 
 </div>
 
@@ -111,9 +111,9 @@ Full math derivations + LaTeX · Built & deployed in weeks
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EliazSelam&show_icons=true&theme=github_dark&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9&bg_color=0d1117" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EliazSelam&show_icons=true&theme=github_dark&hide_border=true&title_color=3078B0&icon_color=3078B0&text_color=EEE9E0&bg_color=0D1520" width="47%"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliazSelam&layout=compact&theme=github_dark&hide_border=true&title_color=FF6B35&text_color=c9d1d9&bg_color=0d1117" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliazSelam&layout=compact&theme=github_dark&hide_border=true&title_color=3078B0&text_color=EEE9E0&bg_color=0D1520" width="47%"/>
 </div>
 
 ---
