@@ -1,73 +1,138 @@
-# 👋 Hello, I'm Eliaz Selam
+<div align="center">
 
-🚀 Engineer in the making 👨‍💻  
-🎓 B.Sc. in Electrical and Electronics Engineering @ Ariel University  
-🎯 Specializing in Signal Processing, Control Systems and AI
+<a href="https://github.com/EliazSelam">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=FF6B35&center=true&vCenter=true&width=620&lines=Eliaz+Selam;Electrical+Engineer+%7C+Control+%26+DSP;Building+systems+that+work." alt="Typing SVG" />
+</a>
 
----
+<br/><br/>
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-004E89?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-FF6B35?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliaz.es1234@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Herzliya,_Israel-2E2E2E?style=for-the-badge)](https://github.com/EliazSelam)
 
-I am an undergraduate electrical engineering student with a strong interest in:
-- Signal processing
-- Control theory
-- Intelligent systems
-
-I enjoy learning independently, applying theory to practice, and building solutions that combine hardware and software.
-
-My current focus includes:
-- Real-time control
-- Embedded systems
-- Algorithm design using:
-  - MATLAB
-  - Simulink
-  - Microcontrollers
+</div>
 
 ---
 
-## Technical Skills
+## 🎯 Who I Am
 
-**Programming**
-- MATLAB
-- Python
-- C/C++
+**B.Sc. Electrical Engineering — Ariel University** (Final Year)
+Specialization: **Control Systems + Digital Signal Processing**
+
+I design and implement discrete-time control systems: from Z-domain
+analysis and observer design to real hardware validation. My work
+combines mathematical rigor with clean engineering execution —
+every result is validated, every plot is reproducible.
+
+**Current deep-dive:** State estimation · MPC · Embedded C++
+
+> *"Control the system before it controls you."*
+
+---
+
+## 🛠️ Technical Stack
+
+<table>
+<tr>
+<td valign="top" width="34%">
+
+**Languages**
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
 
 **Control & Signal Processing**
-- Simulink
-- Control System Toolbox
-- DSP Toolbox
 
-**Embedded Systems & Hardware**
-- Arduino (used in lab projects and home automation demos)
-- Multisim
-- Raspberry Pi (currently exploring)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-**Data Tools**
-- NumPy (matrices, basic signal data)
-- pandas (introductory use)
-- scikit-learn (exploring)
+`State-Space` · `Pole Placement` · `PID / LQR`
+`Z-Transform` · `Dead-Beat Observer`
+`FIR / IIR Filters` · `FFT` · `Sampling Theory`
 
-**Version Control**
-- Git
-- GitHub
+</td>
+<td valign="top" width="33%">
 
----
+**Embedded & Tools**
 
-## Featured Projects
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-| Project | Description |
-|--------|-------------|
-| `digital-control-lab` | Simulations and lab work: state-space models, PID controllers, observers |
-| `signal-processing-demos` | MATLAB scripts for filter design, FFT, sampling theory, FIR/IIR filters |
-| `arduino-access-control` | RFID-based access system with LCD, relay, and feedback through hardware |
+`Multisim` · `NumPy` · `pandas`
+`scikit-learn` · `Quanser` · `PWA`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Contact
+## 🚀 Featured Projects
 
-📧 **Email**: eliaz.es1234@gmail.com  
-🌍 **Location**: Herzliya, Israel
+<table>
+<tr>
+<td width="50%">
+
+### 🔧 [Digital Control Lab](https://github.com/EliazSelam/digital-control-lab)
+
+**`MATLAB`** &nbsp;|&nbsp; **`State-Space`** &nbsp;|&nbsp; **`Z-Transform`**
+
+Full discrete-time control design pipeline:
+- Pole placement + dead-beat observer design
+- DC gain compensation → zero steady-state error
+- Auto-generated: step response, Bode, pole-zero map
+- Reproducible: `code/` · `plots/` · `theory/` · `report/`
+
+</td>
+<td width="50%">
+
+### ⚙️ [Engineering Mastery](https://github.com/EliazSelam/engineering-mastery)
+
+**`TypeScript`** &nbsp;|&nbsp; **`React`** &nbsp;|&nbsp; **`PWA`**
+
+30-day interactive engineering challenge — 36+ live simulations:
+
+PID → Frequency Response → Kalman → LQR → MPC
+
+Full math derivations + LaTeX · Built & deployed in weeks
+**[🚀 Live Demo →](YOUR-DEPLOY-URL)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-> "Striving to learn, build, and contribute – one project at a time."
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EliazSelam&show_icons=true&theme=github_dark&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9&bg_color=0d1117" width="47%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliazSelam&layout=compact&theme=github_dark&hide_border=true&title_color=FF6B35&text_color=c9d1d9&bg_color=0d1117" width="47%"/>
+</div>
+
+---
+
+## 🎯 Status
+
+```
+▶  Finalizing B.Sc. — Ariel University, Electrical Engineering
+▶  Building: real-time control systems & DSP tools
+▶  Learning: MPC · Embedded C++ · State Estimation
+▶  Seeking: Control Systems / DSP / Embedded Engineering roles
+```
+
+---
+
+<div align="center">
+
+**Open to engineering roles in Israel** &nbsp;·&nbsp; [📧 eliaz.es1234@gmail.com](mailto:eliaz.es1234@gmail.com)
+
+<sub><i>Every commit is a step toward mastery.</i></sub>
+
+</div>
