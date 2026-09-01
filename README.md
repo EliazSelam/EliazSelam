@@ -1,10 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/EliazSelam">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=3078B0&center=true&vCenter=true&width=620&lines=Eliaz+Selam;Electrical+Engineer+%7C+Control+%26+DSP;Building+systems+that+work." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=3078B0&center=true&vCenter=true&width=620&lines=Eliaz+Selam;Electrical+Engineer+%7C+Control+%26+DSP;Signal+Processing+%C2%B7+Data+%C2%B7+ML" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1B2F5A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-3078B0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliaz.es1234@gmail.com)
@@ -16,15 +17,13 @@
 
 ## 🎯 Who I Am
 
-**B.Sc. Electrical Engineering — Ariel University** (Final Year)
-Specialization: **Control Systems + Digital Signal Processing**
+**Electrical Engineer** — Ariel University &nbsp;·&nbsp; Control Systems & Digital Signal Processing
 
-I design and implement discrete-time control systems: from Z-domain
-analysis and observer design to real hardware validation. My work
-combines mathematical rigor with clean engineering execution —
-every result is validated, every plot is reproducible.
+I design and implement signal processing and control systems — from Z-domain analysis and observer design to real hardware validation. Mathematical rigor is non-negotiable: every result is validated, every model is grounded.
 
-**Current deep-dive:** State estimation · MPC · Embedded C++
+Applying the same systems-thinking lens to **data & machine learning** — from feature engineering to predictive modeling and beyond.
+
+**Active:** State Estimation · MPC · Embedded C++ · ML fundamentals
 
 > *"Control the system before it controls you."*
 
@@ -41,7 +40,6 @@ every result is validated, every plot is reproducible.
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -50,8 +48,8 @@ every result is validated, every plot is reproducible.
 
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-`State-Space` · `Pole Placement` · `PID / LQR`
-`Z-Transform` · `Dead-Beat Observer`
+`State-Space` · `Pole Placement` · `PID / LQR`  
+`Z-Transform` · `Dead-Beat Observer`  
 `FIR / IIR Filters` · `FFT` · `Sampling Theory`
 
 </td>
@@ -59,12 +57,10 @@ every result is validated, every plot is reproducible.
 
 **Embedded & Tools**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-`Multisim` · `NumPy` · `pandas`
-`scikit-learn` · `Quanser` · `PWA`
+`Multisim` · `NumPy` · `pandas`  
+`scikit-learn` · `Quanser`
 
 </td>
 </tr>
@@ -73,6 +69,42 @@ every result is validated, every plot is reproducible.
 ---
 
 ## 🚀 Featured Projects
+
+### 🧠 THE S1 PROJECT — Motion Artifact Correction in LFP
+
+**`Python`** &nbsp;|&nbsp; **`MATLAB`** &nbsp;|&nbsp; **`Signal Processing`** &nbsp;|&nbsp; **`Research Project`**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🕵️ Interactive Case File
+*A detective narrative — accessible to anyone, not just engineers.*
+
+The research presented as a story: suspects, evidence, and resolution. Visual, explorable, and built to communicate.
+
+**[🔍 Open the Case →](https://eliazselam.github.io/s1-files/)**
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ Engineering Pipeline
+9-stage artifact detection & correction system (in-vivo LFP · 5xFAD mouse model):
+
+- **Detection** — RED/BLUE classifier · wavelet scalogram
+- **Reference** — TQWT (Q=4, 33 levels) + Butterworth filtfilt
+- **Correction** — CAR · Kalman · Khorasani adaptive
+- **Benchmark** — 13 variants · 1,508 obs · **+6.31 dB**, 2.61 µV
+
+29 recordings · 52.6 s/rec · M3, no GPU &nbsp; **[📂 Code →](#)** *(soon)*
+
+</td>
+</tr>
+</table>
+
+*Supervisor: Prof. D. Aboukssis · Ariel University*
+
+---
 
 <table>
 <tr>
@@ -93,14 +125,14 @@ Full discrete-time control design pipeline:
 
 ### ⚙️ [Engineering Mastery](https://github.com/EliazSelam/engineering-mastery)
 
-**`TypeScript`** &nbsp;|&nbsp; **`React`** &nbsp;|&nbsp; **`PWA`**
+**`React`** &nbsp;|&nbsp; **`Interactive`** &nbsp;|&nbsp; **`PWA`**
 
 30-day interactive engineering challenge — 36+ live simulations:
 
 PID → Frequency Response → Kalman → LQR → MPC
 
-Full math derivations + LaTeX · Built & deployed in weeks
-**[🚀 Live Demo →](YOUR-DEPLOY-URL)**
+Full math derivations + LaTeX · Built & deployed in weeks  
+**[🚀 Live Demo →](https://YOUR-DEPLOY-URL)**
 
 </td>
 </tr>
@@ -121,10 +153,10 @@ Full math derivations + LaTeX · Built & deployed in weeks
 ## 🎯 Status
 
 ```
-▶  Finalizing B.Sc. — Ariel University, Electrical Engineering
-▶  Building: real-time control systems & DSP tools
-▶  Learning: MPC · Embedded C++ · State Estimation
-▶  Seeking: Control Systems / DSP / Embedded Engineering roles
+▶  Electrical Engineer — Control Systems & Signal Processing
+▶  Building: real-time DSP pipelines · control algorithms · ML tools
+▶  Expanding into: Data Engineering · Machine Learning · State Estimation
+▶  Open to: Control / DSP / Embedded / Data & ML Engineering roles
 ```
 
 ---
