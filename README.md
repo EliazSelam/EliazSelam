@@ -96,7 +96,7 @@ The research presented as a story: suspects, evidence, and resolution. Visual, e
 - **Correction** — CAR · Kalman · Khorasani adaptive
 - **Benchmark** — 13 variants · 1,508 obs · **+6.31 dB**, 2.61 µV
 
-29 recordings · 52.6 s/rec · M3, no GPU &nbsp; **[📂 Code →](#)** *(soon)*
+29 recordings · 52.6 s/rec · M3, no GPU &nbsp; **[📂 Code →](https://github.com/EliazSelam/lfp-artifact-correction)**
 
 </td>
 </tr>
@@ -112,27 +112,26 @@ The research presented as a story: suspects, evidence, and resolution. Visual, e
 
 ### 🔧 [Digital Control Lab](https://github.com/EliazSelam/digital-control-lab)
 
-**`MATLAB`** &nbsp;|&nbsp; **`State-Space`** &nbsp;|&nbsp; **`Z-Transform`**
+**`MATLAB`** &nbsp;|&nbsp; **`Simulink`** &nbsp;|&nbsp; **`Control Systems`**
 
-Full discrete-time control design pipeline:
-- Pole placement + dead-beat observer design
-- DC gain compensation → zero steady-state error
-- Auto-generated: step response, Bode, pole-zero map
-- Reproducible: `code/` · `plots/` · `theory/` · `report/`
+Lab experiments in classical & modern control:
+- Root Locus — 4 transfer functions, asymptote angles, gain selection
+- Lead compensator design — τ ∈ {0.4, 1, 2} sweep + closed-loop validation
+- State-space PID — ramp tracking via `lsim` (Ki=2.145, Kp=7.1)
+- PD control + DC motor model · observer estimation · saturation analysis
 
 </td>
 <td width="50%">
 
-### ⚙️ [Engineering Mastery](https://github.com/EliazSelam/engineering-mastery)
+### 📡 [DSP Labs](https://github.com/EliazSelam/dsp-labs)
 
-**`React`** &nbsp;|&nbsp; **`Interactive`** &nbsp;|&nbsp; **`PWA`**
+**`MATLAB`** &nbsp;|&nbsp; **`Signal Processing`** &nbsp;|&nbsp; **`Filter Design`**
 
-30-day interactive engineering challenge — 36+ live simulations:
-
-PID → Frequency Response → Kalman → LQR → MPC
-
-Full math derivations + LaTeX · Built & deployed in weeks  
-**[🚀 Live Demo →](https://YOUR-DEPLOY-URL)**
+Hands-on DSP experiments:
+- FFT spectral analysis — single, dual & composite tones (fs=8 kHz)
+- IIR Notch Filter — pole-zero at ω=π/4, radius r=0.9 vs r=0.99
+- FIR LPF — Hamming window design (N=30, wc=47π/124)
+- Interactive signal generator with frequency-band validation
 
 </td>
 </tr>
