@@ -151,10 +151,22 @@ Hands-on DSP experiments:
 
 ---
 
+### ⚖️ [Inverted Pendulum](https://github.com/EliazSelam/inverted-pendulum) — LQR on Quanser IP02
+
+**`MATLAB`** &nbsp;|&nbsp; **`Simulink`** &nbsp;|&nbsp; **`LQR`** &nbsp;|&nbsp; **`State Feedback`** &nbsp;|&nbsp; **`Quanser IP02`**
+
+Real hardware experiments — Quanser IP02 SIP (4-state linearised model):
+- **TF analysis** — motor inductance effect quantified → error = 2.41×10⁻⁷ (negligible)
+- **PV vs PD** — position controller design: Kp = 5408, Kv = 237.86
+- **LQR sweep** — optimal R/Q tuning via simulation (R=0.02, Q=diag([10 10 0 0.1]))
+- **Hardware validation** — real-time closed-loop: optimal Q=diag([35 35 0.1 0.1])
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=EliazSelam&theme=github_dark&hide_border=true&stroke=3078B0&ring=3078B0&fire=3078B0&currStreakNum=EEE9E0&sideNums=EEE9E0&currStreakLabel=3078B0&sideLabels=3078B0&dates=EEE9E0&background=0D1520" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EliazSelam&show_icons=true&theme=github_dark&hide_border=true&title_color=3078B0&icon_color=3078B0&text_color=EEE9E0&bg_color=0D1520&include_all_commits=true&count_private=true" width="47%"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliazSelam&layout=compact&theme=github_dark&hide_border=true&title_color=3078B0&text_color=EEE9E0&bg_color=0D1520&cache_seconds=3600" width="47%"/>
 </div>
