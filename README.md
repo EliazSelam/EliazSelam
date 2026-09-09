@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B2F5A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1B2F5A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eliaz-selam)
 [![Email](https://img.shields.io/badge/Email-3078B0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliaz.es1234@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Herzliya,_Israel-4A4540?style=for-the-badge)](https://github.com/EliazSelam)
 
@@ -17,7 +17,7 @@
 
 ## 🎯 Who I Am
 
-**Electrical Engineer** — Ariel University &nbsp;·&nbsp; Control Systems & Digital Signal Processing
+**Electrical Engineer** — Control Systems & Digital Signal Processing
 
 I design and implement signal processing and control systems — from Z-domain analysis and observer design to real hardware validation. Mathematical rigor is non-negotiable: every result is validated, every model is grounded.
 
@@ -26,6 +26,18 @@ Applying the same systems-thinking lens to **data & machine learning** — from 
 **Active:** State Estimation · MPC · Embedded C++ · ML fundamentals
 
 > *"Control the system before it controls you."*
+
+---
+
+## 🎬 Projects Overview
+
+<div align="center">
+  <a href="https://eliazselam.github.io/s1-files/">
+    <img src="https://img.shields.io/badge/▶_Watch_Project_Walkthrough-3078B0?style=for-the-badge&logo=youtube&logoColor=white" alt="Project Walkthrough"/>
+  </a>
+</div>
+
+> 📌 *Short video walkthrough coming soon — covering the S1 LFP pipeline, Digital Control Lab, and DSP Labs.*
 
 ---
 
@@ -48,8 +60,8 @@ Applying the same systems-thinking lens to **data & machine learning** — from 
 
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-`State-Space` · `Pole Placement` · `PID / LQR`  
-`Z-Transform` · `Dead-Beat Observer`  
+`State-Space` · `Pole Placement` · `PID / LQR`
+`Z-Transform` · `Dead-Beat Observer`
 `FIR / IIR Filters` · `FFT` · `Sampling Theory`
 
 </td>
@@ -59,7 +71,7 @@ Applying the same systems-thinking lens to **data & machine learning** — from 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-`Multisim` · `NumPy` · `pandas`  
+`Multisim` · `NumPy` · `pandas`
 `scikit-learn` · `Quanser`
 
 </td>
@@ -142,9 +154,9 @@ Hands-on DSP experiments:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EliazSelam&show_icons=true&theme=github_dark&hide_border=true&title_color=3078B0&icon_color=3078B0&text_color=EEE9E0&bg_color=0D1520" width="47%"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=EliazSelam&theme=github_dark&hide_border=true&stroke=3078B0&ring=3078B0&fire=3078B0&currStreakNum=EEE9E0&sideNums=EEE9E0&currStreakLabel=3078B0&sideLabels=3078B0&dates=EEE9E0&background=0D1520" width="47%"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliazSelam&layout=compact&theme=github_dark&hide_border=true&title_color=3078B0&text_color=EEE9E0&bg_color=0D1520" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliazSelam&layout=compact&theme=github_dark&hide_border=true&title_color=3078B0&text_color=EEE9E0&bg_color=0D1520&cache_seconds=3600" width="47%"/>
 </div>
 
 ---
