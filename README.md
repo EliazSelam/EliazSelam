@@ -88,17 +88,7 @@ Applying the same systems-thinking lens to **data & machine learning** — from 
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### 🕵️ Interactive Case File
-*A detective narrative — accessible to anyone, not just engineers.*
-
-The research presented as a story: suspects, evidence, and resolution. Visual, explorable, and built to communicate.
-
-**[🔍 Open the Case →](https://eliazselam.github.io/s1-files/)**
-
-</td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 #### ⚙️ Engineering Pipeline
 9-stage artifact detection & correction system (in-vivo LFP · 5xFAD mouse model):
@@ -161,15 +151,6 @@ Real hardware experiments — Quanser IP02 SIP (4-state linearised model):
 - **LQR sweep** — optimal R/Q tuning via simulation (R=0.02, Q=diag([10 10 0 0.1]))
 - **Hardware validation** — real-time closed-loop: optimal Q=diag([35 35 0.1 0.1])
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EliazSelam&show_icons=true&theme=github_dark&hide_border=true&title_color=3078B0&icon_color=3078B0&text_color=EEE9E0&bg_color=0D1520&include_all_commits=true&count_private=true" width="47%"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliazSelam&layout=compact&theme=github_dark&hide_border=true&title_color=3078B0&text_color=EEE9E0&bg_color=0D1520&cache_seconds=3600" width="47%"/>
-</div>
 
 ---
 
