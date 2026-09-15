@@ -82,13 +82,13 @@ Applying the same systems-thinking lens to **data & machine learning** — from 
 
 ## 🚀 Featured Projects
 
-### 🧠 THE S1 PROJECT — Motion Artifact Correction in LFP
-
-**`Python`** &nbsp;|&nbsp; **`MATLAB`** &nbsp;|&nbsp; **`Signal Processing`** &nbsp;|&nbsp; **`Research Project`**
-
 <table>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
+
+### 🧠 THE S1 PROJECT — Motion Artifact Correction in LFP
+
+**`Python`** &nbsp;|&nbsp; **`MATLAB`** &nbsp;|&nbsp; **`Signal Processing`** &nbsp;|&nbsp; **`Research`**
 
 #### ⚙️ Engineering Pipeline
 9-stage artifact detection & correction system (in-vivo LFP · 5xFAD mouse model):
@@ -98,13 +98,29 @@ Applying the same systems-thinking lens to **data & machine learning** — from 
 - **Correction** — CAR · Kalman · Khorasani adaptive
 - **Benchmark** — 13 variants · 1,508 obs · **+6.31 dB**, 2.61 µV
 
-29 recordings · 52.6 s/rec · M3, no GPU &nbsp; **[📂 Code →](https://github.com/EliazSelam/lfp-artifact-correction)**
+29 recordings · 52.6 s/rec · M3, no GPU
+
+*Supervisor: Prof. D. Aboukssis · Ariel University* &nbsp; **[📂 Code →](https://github.com/EliazSelam/lfp-artifact-correction)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Engineering Mastery — 30-Day Challenge App
+
+**`React`** &nbsp;|&nbsp; **`Next.js`** &nbsp;|&nbsp; **`JavaScript`** &nbsp;|&nbsp; **`Web App`**
+
+#### 🚀 What It Does
+A structured 30-day engineering mastery curriculum — interactive, self-paced, built for EE students targeting senior-level roles.
+
+- **Daily challenges** — control theory · signal processing · DSP
+- **Progress tracking** — streak system · concept validation
+- **Deployed** — Vercel production, zero downtime
+
+**[🌐 Open App →](https://engineering-mastery.vercel.app/)** &nbsp;|&nbsp; **[📂 Code →](https://github.com/EliazSelam/engineering-mastery)**
 
 </td>
 </tr>
 </table>
-
-*Supervisor: Prof. D. Aboukssis · Ariel University*
 
 ---
 
