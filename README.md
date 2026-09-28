@@ -32,12 +32,10 @@ Applying the same systems-thinking lens to **data & machine learning** — from 
 ## 🎬 Projects Overview
 
 <div align="center">
-  <a href="https://eliazselam.github.io/s1-files/">
+  <a href="https://github.com/EliazSelam/EliazSelam/releases/download/v1.0/Eliaz_GitHub_Intro_Final.mp4">
     <img src="https://img.shields.io/badge/▶_Watch_Project_Walkthrough-3078B0?style=for-the-badge&logo=youtube&logoColor=white" alt="Project Walkthrough"/>
   </a>
 </div>
-
-> 📌 *Short video walkthrough coming soon — covering the S1 LFP pipeline, Digital Control Lab, and DSP Labs.*
 
 ---
 
