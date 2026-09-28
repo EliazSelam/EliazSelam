@@ -153,6 +153,34 @@ Hands-on DSP experiments:
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### ♟️ Chess Outcome Prediction
+
+**`Orange3`** &nbsp;|&nbsp; **`Machine Learning`** &nbsp;|&nbsp; **`Data Science`**
+
+ML classifier comparison on chess game outcomes (Data Science course):
+- **Models**: SVM · Random Forest · Neural Network · Naive Bayes
+- **Features**: ELO ratings · rating diff (engineered) · opening type · time control
+- **Pipeline**: feature engineering → 130+ opening categories → cross-validation → confusion matrix
+- **Output**: multi-classifier benchmark · Venn diagram overlap analysis
+
+</td>
+<td width="50%">
+
+### 🦾 Robotic Arm Assistant
+
+**`Python`** &nbsp;|&nbsp; **`Computer Vision`** &nbsp;|&nbsp; **`Object Detection`**
+
+AI-powered desk assistant with robotic arm control:
+- **Vision pipeline** — desk object detection & image classification
+- **Dataset engineering** — custom dataset cleaning + image generation scripts
+- **Simulation** — robotic arm kinematics & trajectory planning (RoboticArmSim)
+- **Algorithm doc** — full pipeline: data collection → model → deployment
+
+</td>
+</tr>
 </table>
 
 ---
