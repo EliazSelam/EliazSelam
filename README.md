@@ -156,7 +156,7 @@ Hands-on DSP experiments:
 <tr>
 <td width="50%">
 
-### ♟️ Chess Outcome Prediction
+### ♟️ [Chess Outcome Prediction](https://github.com/EliazSelam/chess-outcome-prediction)
 
 **`Orange3`** &nbsp;|&nbsp; **`Machine Learning`** &nbsp;|&nbsp; **`Data Science`**
 
@@ -169,7 +169,7 @@ ML classifier comparison on chess game outcomes (Data Science course):
 </td>
 <td width="50%">
 
-### 🦾 Robotic Arm Assistant
+### 🦾 [Robotic Arm Assistant](https://github.com/EliazSelam/robotic-arm-assistant)
 
 **`Python`** &nbsp;|&nbsp; **`Computer Vision`** &nbsp;|&nbsp; **`Object Detection`**
 
