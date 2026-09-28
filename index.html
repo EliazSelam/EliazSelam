@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eliaz Selam</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg:      #0d1b2e;
+      --surface: #1B2F5A;
+      --card:    #162540;
+      --accent:  #3078B0;
+      --light:   #D6E8F7;
+      --text:    #EEE9E0;
+      --muted:   #7b8fa6;
+      --border:  rgba(48,120,176,0.25);
+    }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 32px 16px;
+      gap: 28px;
+    }
+    header { text-align: center; }
+    .name {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: clamp(1.5rem, 5vw, 2.2rem);
+      font-weight: 700;
+      color: var(--light);
+      letter-spacing: -0.02em;
+    }
+    .role {
+      margin-top: 8px;
+      font-size: 0.82rem;
+      color: var(--muted);
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    .player-card {
+      width: 100%;
+      max-width: 860px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      box-shadow: 0 24px 64px rgba(0,0,0,0.55);
+    }
+    video {
+      display: block;
+      width: 100%;
+      aspect-ratio: 16/9;
+      background: #000;
+    }
+    .meta {
+      padding: 14px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      border-top: 1px solid var(--border);
+      flex-wrap: wrap;
+    }
+    .meta-label {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+    .meta-desc {
+      font-size: 0.78rem;
+      color: var(--muted);
+    }
+    nav {
+      display: flex;
+      gap: 24px;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    nav a {
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.84rem;
+      font-weight: 500;
+      padding: 8px 18px;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      transition: background 0.18s, color 0.18s;
+    }
+    nav a:hover { background: var(--surface); color: var(--light); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="name">Eliaz Selam</div>
+    <div class="role">Electrical Engineer &nbsp;·&nbsp; Control Systems &amp; DSP</div>
+  </header>
+
+  <div class="player-card">
+    <video
+      controls
+      autoplay
+      muted
+      playsinline
+      preload="auto"
+      src="https://github.com/EliazSelam/EliazSelam/releases/download/v1.0/Eliaz_GitHub_Intro_Final.mp4">
+      Your browser does not support the video tag.
+    </video>
+    <div class="meta">
+      <span class="meta-label">▶&nbsp; Project Walkthrough</span>
+      <span class="meta-desc">S1 LFP Pipeline &nbsp;·&nbsp; Digital Control Lab &nbsp;·&nbsp; DSP Labs</span>
+    </div>
+  </div>
+
+  <nav>
+    <a href="https://github.com/EliazSelam">GitHub</a>
+    <a href="https://linkedin.com/in/eliaz-selam">LinkedIn</a>
+    <a href="mailto:eliaz.es1234@gmail.com">Email</a>
+  </nav>
+</body>
+</html>

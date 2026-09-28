@@ -32,7 +32,7 @@ Applying the same systems-thinking lens to **data & machine learning** — from 
 ## 🎬 Projects Overview
 
 <div align="center">
-  <a href="https://github.com/EliazSelam/EliazSelam/releases/download/v1.0/Eliaz_GitHub_Intro_Final.mp4">
+  <a href="https://eliazselam.github.io/">
     <img src="https://img.shields.io/badge/▶_Watch_Project_Walkthrough-3078B0?style=for-the-badge&logo=youtube&logoColor=white" alt="Project Walkthrough"/>
   </a>
 </div>
