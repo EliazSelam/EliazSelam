@@ -33,7 +33,7 @@ Applying the same systems-thinking lens to **data & machine learning** — from 
 
 <div align="center">
   <a href="https://eliazselam.github.io/EliazSelam/">
-    <img src="https://img.shields.io/badge/▶_Watch_Project_Walkthrough-3078B0?style=for-the-badge&logo=youtube&logoColor=white" alt="Project Walkthrough"/>
+    <img src="video_thumbnail.jpg" alt="▶ Project Walkthrough — Click to watch" width="100%"/>
   </a>
 </div>
 
