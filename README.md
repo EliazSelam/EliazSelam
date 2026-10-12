@@ -158,11 +158,15 @@ Hands-on DSP experiments:
 
 **`Orange3`** &nbsp;|&nbsp; **`Machine Learning`** &nbsp;|&nbsp; **`Data Science`**
 
-ML classifier comparison on chess game outcomes (Data Science course):
-- **Models**: SVM · Random Forest · Neural Network · Naive Bayes
-- **Features**: ELO ratings · rating diff (engineered) · opening type · time control
-- **Pipeline**: feature engineering → 130+ opening categories → cross-validation → confusion matrix
-- **Output**: multi-classifier benchmark · Venn diagram overlap analysis
+ML pipeline on **20,058 Lichess games** — classification + ELO regression (Orange3):
+
+| Task | Model | Result |
+|:---|:---|:---|
+| Outcome Classification | Neural Network (200→100→50→20) | AUC **0.680** · CA **0.640** |
+| ELO Regression | Linear Regression | R² **0.961** · RMSE **±51 ELO** |
+
+**Feature engineering:** `rating_diff` · ECO (A–E) · 130+ openings → 5 categories · time control  
+**Finding:** ELO is **96.1% explainable** from observable game stats alone.
 
 </td>
 <td width="50%">
