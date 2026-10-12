@@ -105,7 +105,7 @@ Applying the same systems-thinking lens to **data & machine learning** — from 
 
 ### 🎯 Engineering Mastery — 30-Day Challenge App
 
-**`React`** &nbsp;|&nbsp; **`Next.js`** &nbsp;|&nbsp; **`JavaScript`** &nbsp;|&nbsp; **`Web App`**
+**`React`** &nbsp;|&nbsp; **`Vite`** &nbsp;|&nbsp; **`TypeScript`** &nbsp;|&nbsp; **`Web App`**
 
 #### 🚀 What It Does
 A structured 30-day engineering mastery curriculum — interactive, self-paced, built for EE students targeting senior-level roles.
@@ -124,7 +124,7 @@ A structured 30-day engineering mastery curriculum — interactive, self-paced, 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔧 [Digital Control Lab](https://github.com/EliazSelam/digital-control-lab)
 
@@ -137,7 +137,7 @@ Lab experiments in classical & modern control:
 - PD control + DC motor model · observer estimation · saturation analysis
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📡 [DSP Labs](https://github.com/EliazSelam/dsp-labs)
 
@@ -152,7 +152,7 @@ Hands-on DSP experiments:
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ♟️ [Chess Outcome Prediction](https://github.com/EliazSelam/chess-outcome-prediction)
 
@@ -160,16 +160,14 @@ Hands-on DSP experiments:
 
 ML pipeline on **20,058 Lichess games** — classification + ELO regression (Orange3):
 
-| Task | Model | Result |
-|:---|:---|:---|
-| Outcome Classification | Neural Network (200→100→50→20) | AUC **0.680** · CA **0.640** |
-| ELO Regression | Linear Regression | R² **0.961** · RMSE **±51 ELO** |
+- **Outcome classification** — Neural Network (200→100→50→20): AUC **0.680** · CA **0.640**
+- **ELO regression** — Linear Regression: R² **0.961** · RMSE **±51 ELO**
 
 **Feature engineering:** `rating_diff` · ECO (A–E) · 130+ openings → 5 categories · time control  
-**Finding:** ELO is **96.1% explainable** from observable game stats alone.
+**Note:** R² reflects rating-difference filtering, not deep generalization (see report).
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🦾 [Robotic Arm Assistant](https://github.com/EliazSelam/robotic-arm-assistant)
 
